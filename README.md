@@ -1,4 +1,4 @@
-## 라즈베리파이 센서 제어 스킬업 with Pioneer600 기본편{: style="text-align: center;"}
+## 라즈베리파이 센서 제어 스킬업 with Pioneer600 기본편
 
 부재 : Raspberry Pi 센서 제어 중급으로 가는 길
 
