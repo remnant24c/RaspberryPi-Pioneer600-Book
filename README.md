@@ -9,7 +9,7 @@ Raspberry Pi4와 Pioneer600가 기본으로 필수이며, 나머지 점퍼선, L
 
 ![라즈베리파이 책표지](./book_mockup.jpg)
 
-##**목 차**
+## **목 차**
 
 1. 들어가며
 2. Raspberry Pi에 OS 설치
