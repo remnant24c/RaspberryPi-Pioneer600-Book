@@ -1,4 +1,4 @@
-## 라즈베리파이 센서 제어 스킬업 with Pioneer600 기본편
+## 라즈베리파이 센서 제어 스킬업 with Pioneer600 기본편{: style="text-align: center;"}
 
 부재 : Raspberry Pi 센서 제어 중급으로 가는 길
 
@@ -9,7 +9,7 @@ Raspberry Pi4와 Pioneer600가 기본으로 필수이며, 나머지 점퍼선, L
 
 ![라즈베리파이 책표지](./book_mockup.jpg)
 
-**목 차**
+###**목 차**
 
 1. 들어가며
 2. Raspberry Pi에 OS 설치
@@ -26,5 +26,5 @@ Raspberry Pi4와 Pioneer600가 기본으로 필수이며, 나머지 점퍼선, L
 
 **원본 소스 출처 :** https://files.waveshare.com/upload/3/3a/Pioneer600_code.zip
 
-**책문의 메일 주소 :** 
-remnant24c@gmail.com
+**책 관련 문의 메일 주소 :** 
+remnant.helper24c@gmail.com
